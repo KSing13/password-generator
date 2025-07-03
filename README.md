@@ -1,2 +1,2 @@
 # password-generator
- Password Generator which allows user to set criterias
+ Password Generator which enables to generate password while setting criterias
